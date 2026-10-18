@@ -1,0 +1,6 @@
+{
+  "name": "Base64 Image Converter",
+  "description": "Fast, privacy-first image to base64 converter and decoder with code snippet generation, image optimization, and one-click copying.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
